@@ -43,8 +43,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_title=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pipe12052007-pixel&show_icons=true&theme=radical&hide_title=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipe12052007-pixel&layout=compact&theme=radical" height="150" alt="Top Languages"/>
 </p>
 
 ---
@@ -52,8 +52,8 @@
 ## 📈 Analítica de Actividad
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USUARIO&theme=radical" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TU_USUARIO&theme=github-compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pipe12052007-pixel&theme=radical" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pipe12052007-pixel&theme=github-compact" />
 </p>
 
 ---
